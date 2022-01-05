@@ -21,6 +21,6 @@ my submission for TSF JAN2022 - https://www.linkedin.com/posts/karanpratapshaw_b
 3. make 2 tables
   - user (in users db)
   - histories (in history db)
-4. pass the sql code given in the sql folder
+4. pass the sql code given in the [sql folder](https://github.com/iCaran/myBank/tree/main/sql)
 5. download and paste all the php,css files in htdocs folder in your xampp folder
 6. Run site!
