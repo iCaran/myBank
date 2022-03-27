@@ -1,4 +1,6 @@
 # Basic Banking System
+![image](https://user-images.githubusercontent.com/91419527/160302965-20badbc0-55f2-4f48-8419-4ab1034b7438.png)
+
 ## TSF GRIP JAN2022 Web Development Task-1
 - Dummy data containing 10 users
 - data format: serial number, name, email, balance
